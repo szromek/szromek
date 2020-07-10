@@ -1,4 +1,4 @@
-### Hi there 👋
+![Exlabs slogan](https://media-exp1.licdn.com/dms/image/C5616AQHl0RcW5ibpIw/profile-displaybackgroundimage-shrink_350_1400/0?e=1599696000&v=beta&t=fLioBzgEEO1UrXo0xAhYU7RdJ__gXbnWLt_Gmeduh3M)
 
 <!--
 **szromek/szromek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
